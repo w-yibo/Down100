@@ -1,0 +1,8 @@
+﻿  acllib.c
+  base.cpp
+  object.cpp
+  person.cpp
+  源.cpp
+  正在生成代码...
+D:\学习资料\C++\project\我的游戏C++\我的游戏C++\object.cpp(37): warning C4715: “object::collision”: 不是所有的控件路径都返回值
+  我的游戏C++.vcxproj -> D:\学习资料\C++\project\我的游戏C++\Debug\我的游戏C++.exe
